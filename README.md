@@ -64,7 +64,7 @@ cd aircrack-ng-1.7
 
 This directory contains the database where the collected data is written by the 'airodump-ng' suite. The 'airodump-ng' is has hardcoded the database filepath '/home/kali/Desktop/InformationElementsAnalyser/DB/InformationElements.db' to write the collected data. 
 
-This database is empty and contains only one table (Information_Elements), which its schema is presented in the InformationElements_schema.txt file.
+This database is empty and contains only one table (Information_Elements), which its schema is presented in the 'InformationElements_schema.txt' file.
 
 
 ## informationElementsAnalyser.py
