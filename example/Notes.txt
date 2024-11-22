@@ -1,0 +1,3 @@
+Ficheiros de exemplo resultantes da validação do algoritmo de fingerprinting da minha dissertação de mestrado com base nos dados do Public Dataset dos italianos de 2021! 
+
+O que está na base de dados 'PublicDataset.db' são os pacotes do dataset dos italianos (existe também a coluna 'device' na base de dados no entanto, para efeitos deste projeto, dado que o objetivo é analisar os dados de probe requests recolhidos em raw, sejam estes etiquetados ou não, decidi retirar a análise que tinha sobre o número de footprints para cada dispositivo móvel que recorria a esta coluna, e desta forma é possível analisar a informação de probe requests sem a necessidade de os dados terem que estar etiquetados).
