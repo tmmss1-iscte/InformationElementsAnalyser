@@ -71,13 +71,13 @@ This software analysis tool only requires the instalation of the ```simple-color
 
 The software in this folder does not make part of the analysis tool itself. Instead, this software is only available to collect the data and inserting it in the correct format in the local database.
  
-For more information about how to collect data in the appropriated format, go check the README.md file on this folder.
+For more information about how to collect data in the appropriated format, go check the [README.md](https://github.com/tmmss1-iscte/InformationElementsAnalyser/blob/main/aircrack-ng-1.7/README.md) file on this folder.
 
 ## DB
 
 This folder contains the database where the collected data is written by the 'aircrack-ng' software suite. 
 
-For more information about how to collect data in the appropriated format, go check the README.md file on this folder.
+For more information about how to collect data in the appropriated format, go check the [README.md](https://github.com/tmmss1-iscte/InformationElementsAnalyser/blob/main/DB/README.md) file on this folder.
 
 
 
