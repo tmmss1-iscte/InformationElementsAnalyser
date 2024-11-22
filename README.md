@@ -11,7 +11,7 @@ Besides the software tool, this repository also contains the software for collec
 ***IMPORTANT NOTES:***
 * The software will only run under certain conditions (my excuses in advance for the inconvenience):
   * The software is meant to be spefically run on a device with Kali Linux OS installed.
-  * Please clone this repository at the '/home/kali/Desktop' folder of your device. Despite having a 'env_variables.py' file where you can specify the location of the database for the input data, the 'airodump-ng' suite has the path '/home/kali/Desktop/InformationElementsAnalyser/DB/InformationElements.db' hardcoded as the input database where the data will be written. Therefore, do not move any file from its original path, otherwise you may compromisse the executability of the software.
+  * Please clone this repository at the '/home/kali/Desktop' folder of your device and not move any file from its original path, otherwise you may compromisse the executability of the software.
  
 
 ## informationElementsAnalyser.py
