@@ -9,9 +9,8 @@ This tool was used to determine what information should be considered or ignored
 Besides the software tool, this repository also contains the software for collecting and storing the data in the apropriated format for subsequent analysis by the tool.
 
 ***IMPORTANT NOTES:***
-* The software will only run under certain conditions (my excuses in advance for the inconvenience):
-  * The software is meant to be spefically run on a device with Kali Linux OS installed.
-  * Please clone this repository at the '/home/kali/Desktop' folder of your device and not move any file from its original path, otherwise you may compromisse the executability of the software.
+ * The software is meant to be spefically run on a device with Kali Linux OS installed.
+ * Please clone this repository at the '/home/kali/Desktop' folder of your device and not move any file from its original path, otherwise you may compromisse the executability of the software.
  
 
 ## informationElementsAnalyser.py
