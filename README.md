@@ -60,13 +60,6 @@ This folder contains example files with preloaded data that can be used to verif
 
 To use this data as tool input, simply change the 'input_db_filepath' environment variable with the path to the 'PublicDataset.db' database in this folder.
 
-## Requirements
-
-This software analysis tool only requires the instalation of the ```simple-colors``` library through pip:
-
-```pip install simple-colors```
-
-
 ## aircrack-ng
 
 The software in this folder does not make part of the analysis tool itself. Instead, this software is only available to collect the data and inserting it in the correct format in the local database.
@@ -79,7 +72,11 @@ This folder contains the database where the collected data is written by the 'ai
 
 For more information about how to collect data in the appropriated format, go check the [README.md](https://github.com/tmmss1-iscte/InformationElementsAnalyser/blob/main/DB/README.md) file on this folder.
 
+## Requirements
 
+This software analysis tool only requires the instalation of the ```simple-colors``` library through pip:
+
+```pip install simple-colors```
 
 
 
