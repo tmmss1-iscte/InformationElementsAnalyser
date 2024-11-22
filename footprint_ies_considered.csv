@@ -1,0 +1,13 @@
+﻿Information Element;Element ID;Information Considered;;;Bytes/Bits Removed
+;;IE ID;IE length;IE value;
+SSID;0;No;No;No;None
+Supported Rates;1;Yes;Yes;Yes;None
+Extended Supported Rates;50;Yes;Yes;Yes;None
+DS Parameter Set;3;Yes;No;No;None
+Supported Operating Classes;59;Yes;Yes;Yes;None
+RM Enabled Capabilities;70;Yes;Yes;Yes;None
+HT Capabilities;45;Yes;Yes;Yes;5th byte
+VHT Capabilities;191;Yes;Yes;Yes;None
+Extended Capabilities;127;Yes;Yes;Yes;None
+Interworking;107;Yes;Yes;Yes;None
+Vendor Specific;221;Yes;Yes;Yes;6th and 8th bytes
